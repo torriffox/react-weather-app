@@ -1,0 +1,28 @@
+.icon-weather {
+  width: 130px;
+}
+
+.current-date,
+.description-weather {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.current-temperature {
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.units {
+  position: relative;
+  top: -25px;
+  font-size: 15px;
+}
+
+.additional-information-about-weather {
+  font-size: 18px;
+}
+
+.Weather {
+  border: 1px solid #dadde1;
+}
